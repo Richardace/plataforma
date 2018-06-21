@@ -1,0 +1,1 @@
+<footer class="main"> &copy; 2016 <strong>Telecomunicaciones RACE S.A.</strong></footer>
